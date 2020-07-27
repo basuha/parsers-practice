@@ -1,0 +1,7 @@
+print("lol")
+print("lol")
+print("lol")
+print("lol")
+print("lol")
+print("lol")
+print("lol")
