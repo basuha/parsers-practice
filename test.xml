@@ -9,6 +9,8 @@
                 <employee name="Franklin" job="Junior Software Developer" />
             </employees>
         </office>
+
+
         <office floor="1" room="2">
             <employees>
                 <employee name="Herald" job="Middle Software Developer" />
@@ -16,5 +18,15 @@
                 <employee name="Leroy" job="Junior Software Developer" />
             </employees>
         </office>
+
+<!--        <office>-->
+<!--            <floor>1</floor>-->
+<!--            <room>2</room>-->
+<!--            <employees>-->
+<!--                <employee name="Herald" job="Middle Software Developer" />-->
+<!--                <employee name="Adam" job="Middle Software Developer" />-->
+<!--                <employee name="Leroy" job="Junior Software Developer" />-->
+<!--            </employees>-->
+<!--        </office>-->
     </offices>
 </company>
